@@ -1,0 +1,51 @@
+/* Base Color */
+.cs-pxabnsnfns00001000101.cs-base{
+    background-color: #3885B6;
+    color: rgba(255, 255, 255, 1);
+}
+
+/* Side Menu */
+.cs-pxabnsnfns00001000101.cs-base .cs-left{
+    background-color: #3175A0;
+}
+
+.cs-pxabnsnfns00001000101 .cs-listitem:hover{
+    background-color: #2B668B;
+}
+
+.cs-pxabnsnfns00001000101 .cs-listitem.cs-selected:hover{
+    background-color: #2B668B;
+}
+
+.cs-pxabnsnfns00001000101 .cs-listitem.cs-selected{
+    background-color: #2B668B;
+}
+
+.cs-pxabnsnfns00001000101 .tabs, .cs-pxabnsnfns00001000101 .cs-logo{
+    background-color: #3175A0;
+}
+
+.cs-pxabnsnfns00001000101 .cs-icon path, .cs-pxabnsnfns00001000101 .cs-icon rect, .cs-pxabnsnfns00001000101 .cs-icon polygon, .cs-pxabnsnfns00001000101 .menu-icon-wrapper.menu-icon-wrapper-hover path{
+    background-color: #fff;
+}
+
+.cs-pxabnsnfns00001000101.cs-base.cs-custom-theme .cs-listitem{
+    color: #fff;
+}
+
+.cs-pxabnsnfns00001000101.cs-base.cs-custom-theme .cs-listitem.cs-selected{
+    color: rgb(212, 212, 212)!important;
+}
+
+.cs-pxabnsnfns00001000101 .area-secondary-wrapper:after{
+    opacity: .2;
+}
+
+/* Icons */
+.cs-pxabnsnfns00001000101 .cs-icon path, .cs-pxabnsnfns00001000101 .cs-icon rect, .cs-pxabnsnfns00001000101 .cs-icon polygon, .cs-pxabnsnfns00001000101 .menu-icon-wrapper.menu-icon-wrapper-hover path{
+    fill: rgb(224, 224, 224)!important;
+}
+
+.cs-pxabnsnfns00001000101 .menu-icon-wrapper svg path{
+    fill: rgb(224, 224, 224)!important;
+}
